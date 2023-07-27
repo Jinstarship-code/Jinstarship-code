@@ -1,6 +1,6 @@
 
 
-블로그 : [Blog]([https://blog.naver.com/PostList.naver?blogId=yyjh6713&skinType=&skinId=&from=menu&userSelectMenu=true],"Jinstood")
+블로그 : 
 
 <!---
 Jinstarship-code/Jinstarship-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
